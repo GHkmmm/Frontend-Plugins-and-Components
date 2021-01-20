@@ -1,4 +1,12 @@
-## Frontend Plugins and Components
+## 🚀Frontend Plugins and Components 前端常用插件和组件
 
 
 
+不定时上传一些可复用代码，做一名合格的CV工程师
+
+
+
+* 🔥   Vue
+  * Vue常用组件，有些组件是根据设计稿设计的，样式不一定匹配 稍微修改一下样式即可。
+* ✏️  js     
+  * 均已模块化导出，具体导出规则见代码
